@@ -1,0 +1,2 @@
+==Nasted Query==
+1.SELECT * FROM users inner join teachers on users.id=teachers.user_id where users.id=(select id from users where username="mysir" and password="e10adc3949ba59abbe56e057f20f883e")

@@ -1,0 +1,5 @@
+Changes=>
+In Human Resource mai-
+=salary_salary_type ko comment kiya hai null jane ke liye,
+=Joki vo page hai SchoolManagement\application\modules\hrm\controllers\Employee.php 
+mai hai.
